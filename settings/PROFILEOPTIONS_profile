@@ -4,7 +4,7 @@ GstAudio.CopSpeechAudibility 0
 GstAudio.DynamicsEnum 0
 GstAudio.MasterVolume 1.000000
 GstAudio.MusicBalance 0
-GstAudio.MusicVolume 1.000000
+GstAudio.MusicVolume 0.000000
 GstAudio.MusicVolumeEvents 1.000000
 GstAudio.MusicVolumeGarage 1.000000
 GstAudio.MusicVolumeOpenWorld 1.000000
@@ -33,12 +33,12 @@ GstRender.HDRMode 1
 GstRender.LightingQuality 0
 GstRender.MeshQuality 0
 GstRender.MotionBlurEnabled 0
-GstRender.OverallGraphicsQuality 0
+GstRender.OverallGraphicsQuality 1
 GstRender.PhotoSensitivityEnabled 0
 GstRender.PostProcessQuality 0
 GstRender.ReflectionQuality 0
 GstRender.ResolutionHeight 768
-GstRender.ResolutionScale 0.800000
+GstRender.ResolutionScale 0.850000
 GstRender.ResolutionWidth 1366
 GstRender.ScreenSafeAreaHasBeenSet 1
 GstRender.ScreenSafeAreaHeight 1.000000
