@@ -10,9 +10,9 @@ GstAudio.MusicVolumeGarage 1.000000
 GstAudio.MusicVolumeOpenWorld 1.000000
 GstAudio.MusicVolumePursuits 1.000000
 GstAudio.PoliceScannerOutputEnum 1
-GstAudio.PoliceScannerVolume 1.000000
-GstAudio.SoundEffectVolume 1.000000
-GstAudio.SpeechVolume 1.000000
+GstAudio.PoliceScannerVolume 0.900000
+GstAudio.SoundEffectVolume 0.900000
+GstAudio.SpeechVolume 0.800000
 GstAudio.StereoMixdown 0
 GstAudio.TextToSpeechVoice 1
 GstAudio.VoiceNarration 0
