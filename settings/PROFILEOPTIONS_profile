@@ -10,9 +10,9 @@ GstAudio.MusicVolumeGarage 1.000000
 GstAudio.MusicVolumeOpenWorld 1.000000
 GstAudio.MusicVolumePursuits 1.000000
 GstAudio.PoliceScannerOutputEnum 1
-GstAudio.PoliceScannerVolume 0.900000
+GstAudio.PoliceScannerVolume 1.000000
 GstAudio.SoundEffectVolume 0.900000
-GstAudio.SpeechVolume 0.800000
+GstAudio.SpeechVolume 1.000000
 GstAudio.StereoMixdown 0
 GstAudio.TextToSpeechVoice 1
 GstAudio.VoiceNarration 0
@@ -48,4 +48,4 @@ GstRender.TerrainQuality 0
 GstRender.TextureFiltering 0
 GstRender.TextureQuality 0
 GstRender.UndergrowthQuality 0
-GstRender.VSyncEnabled 0
+GstRender.VSyncEnabled 1
