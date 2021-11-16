@@ -38,7 +38,7 @@ GstRender.PhotoSensitivityEnabled 0
 GstRender.PostProcessQuality 1
 GstRender.ReflectionQuality 1
 GstRender.ResolutionHeight 768
-GstRender.ResolutionScale 0.650000
+GstRender.ResolutionScale 0.600000
 GstRender.ResolutionWidth 1366
 GstRender.ScreenSafeAreaHasBeenSet 1
 GstRender.ScreenSafeAreaHeight 1.000000
